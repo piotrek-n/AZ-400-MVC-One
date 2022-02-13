@@ -11,7 +11,7 @@ on:
 
 env:
   AZURE_WEBAPP_NAME: AZ-400-MVC-One
-  WORKING_DIRECTORY: AZ-400-MVC-One
+  WORKING_DIRECTORY: '.'
 
 jobs:
   build:
